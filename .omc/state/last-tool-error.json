@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd C:/Users/xieruiqiang/.claude/skills/yineng-distillery && gh repo create yineng-distillery --public --description \\\"异能蒸馏炉 · 萃取单一超能力生成异能晶核\\\" --source . --push 2>&1\",\"description\":\"Create ...",
+  "error": "Exit code 1\ncurrent directory is not a git repository. Run `git init` to initialize it",
+  "timestamp": "2026-04-20T04:08:52.495Z",
+  "retry_count": 2
+}
